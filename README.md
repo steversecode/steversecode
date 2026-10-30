@@ -1,13 +1,15 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=220&section=header&text=Steven%20Morison&fontSize=52&fontAlignY=38&desc=thevibecoder%20%7C%20Full-Stack%20Web%20Developer%20%26%20E-Commerce%20Architect&descAlignY=58&descSize=18&fontColor=ffffff" width="100%" alt="Steven Morison Banner" />
+ <!-- Header Banner -->
+  <img src="./Gemini_Generated_Image_hg9b45hg9b45hg9b.jpeg" width="100%" alt="Steven Morison - Steversecode Banner" />
 
   <br/>
 
   <!-- Typing Animation -->
+ <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=25D366&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Steven+Morison+(thevibecoder);Informatics+Graduate+%40+Universitas+Teknologi+Yogyakarta;Architecting+High-Conversion+E-Commerce+Platforms;Building+Secure%2C+Fast+%26+Scalable+Web+Systems;Crafting+Vibes+Into+Production-Grade+Code+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=25D366&center=true&vCenter=true&width=750&lines=Hi+there!+%F0%9F%91%8B+I'm+Steven+Morison+(thevibecoder);Informatics+Graduate+%40+Universitas+Teknologi+Yogyakarta;Architecting+High-Conversion+E-Commerce+Platforms;Building+Secure%2C+Fast+%26+Scalable+Web+Systems;Crafting+Vibes+Into+Production-Grade+Code+%E2%9C%A8" alt="Typing SVG" />
   </a>
 
   <br/><br/>
