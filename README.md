@@ -7,8 +7,9 @@
   <br/>
 
   <!-- Typing Animation -->
+ <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=25D366&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Steven+Morison+(thevibecoder);Informatics+Graduate+%40+Universitas+Teknologi+Yogyakarta;Architecting+High-Conversion+E-Commerce+Platforms;Building+Secure%2C+Fast+%26+Scalable+Web+Systems;Crafting+Vibes+Into+Production-Grade+Code+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=25D366&center=true&vCenter=true&width=750&lines=Hi+there!+%F0%9F%91%8B+I'm+Steven+Morison+(thevibecoder);Informatics+Graduate+%40+Universitas+Teknologi+Yogyakarta;Architecting+High-Conversion+E-Commerce+Platforms;Building+Secure%2C+Fast+%26+Scalable+Web+Systems;Crafting+Vibes+Into+Production-Grade+Code+%E2%9C%A8" alt="Typing SVG" />
   </a>
 
   <br/><br/>
