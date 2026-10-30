@@ -53,7 +53,7 @@ Berikut adalah beberapa platform e-commerce & web aplikasi berskala produksi yan
     <td width="50%" valign="top">
       <p align="left">
         <a href="https://manee.id" target="_blank">
-          <img src="./logo%20brand/Manee.svg" height="42" alt="Maneé Logo" />
+          <img src="./Manee.svg" height="42" alt="Maneé Logo" />
         </a>
       </p>
       <h3 align="left">✨ <a href="https://manee.id" target="_blank">Maneé</a></h3>
@@ -70,7 +70,7 @@ Berikut adalah beberapa platform e-commerce & web aplikasi berskala produksi yan
     <td width="50%" valign="top">
       <p align="left">
         <a href="https://clabycla.id" target="_blank">
-          <img src="./logo%20brand/cla.png" height="42" alt="Clabycla Logo" />
+          <img src="./cla.png" height="42" alt="Clabycla Logo" />
         </a>
       </p>
       <h3 align="left">👗 <a href="https://clabycla.id" target="_blank">Clabycla</a></h3>
@@ -88,7 +88,7 @@ Berikut adalah beberapa platform e-commerce & web aplikasi berskala produksi yan
     <td width="50%" valign="top">
       <p align="left">
         <a href="https://biemi.id" target="_blank">
-          <img src="./logo%20brand/biemi.png" height="46" alt="Biemi Logo" />
+          <img src="./biemi.png" height="46" alt="Biemi Logo" />
         </a>
       </p>
       <h3 align="left">🌸 <a href="https://biemi.id" target="_blank">Biemi</a></h3>
@@ -104,7 +104,7 @@ Berikut adalah beberapa platform e-commerce & web aplikasi berskala produksi yan
     <td width="50%" valign="top">
       <p align="left">
         <a href="https://mecsofficial.com" target="_blank">
-          <img src="./logo%20brand/mecs.webp" height="42" alt="MECS Official Logo" />
+          <img src="./mecs.webp" height="42" alt="MECS Official Logo" />
         </a>
       </p>
       <h3 align="left">🏢 <a href="https://mecsofficial.com" target="_blank">MECS Official</a></h3>
