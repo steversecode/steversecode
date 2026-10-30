@@ -1,7 +1,8 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=220&section=header&text=Steven%20Morison&fontSize=52&fontAlignY=38&desc=thevibecoder%20%7C%20Full-Stack%20Web%20Developer%20%26%20E-Commerce%20Architect&descAlignY=58&descSize=18&fontColor=ffffff" width="100%" alt="Steven Morison Banner" />
+ <!-- Header Banner -->
+  <img src="./banner.png" width="100%" alt="Steven Morison - Steversecode Banner" />
 
   <br/>
 
