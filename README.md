@@ -2,7 +2,7 @@
 
   <!-- Header Banner -->
  <!-- Header Banner -->
-  <img src="./banner.png" width="100%" alt="Steven Morison - Steversecode Banner" />
+  <img src="./Gemini_Generated_Image_hg9b45hg9b45hg9b.jpeg" width="100%" alt="Steven Morison - Steversecode Banner" />
 
   <br/>
 
