@@ -27,14 +27,18 @@
 
 ### 👨‍💻 About Me
 
+### 👨‍💻 About Me
+
 ```yaml
-name: Steven Morison
-alias: thevibecoder
-github: steversecode
-degree: S.Kom - Teknik Informatika (Informatics Engineering)
-alma_mater: Universitas Teknologi Yogyakarta (UTY)
-focus: Full-Stack Web Development, E-Commerce Systems, API & Logistics Integrations, Application Security
-current_mindset: "Vibe high, code clean, build things that solve real business problems."
+Name:            "Steven Morison"
+Alias:           "thevibecoder"
+Github:          "steversecode"
+Degree:          "S.Kom - Teknik Informatika (Informatics Engineering)"
+Almamater:      "Universitas Teknologi Yogyakarta (UTY)"
+Focus:           >-
+                 Full-Stack Web Development, E-Commerce Systems,
+                 API & Logistics Integrations, Application Security
+Motto: "Vibe high, code clean, build things that solve real business problems."
 ```
 
 - 🎓 **Lulusan Informatika** dari **Universitas Teknologi Yogyakarta (UTY)** dengan fokus pada rekayasa perangkat lunak web dan sistem informasi ritel modern.
