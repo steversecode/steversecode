@@ -1,13 +1,11 @@
 <div align="center">
 
   <!-- Header Banner -->
- <!-- Header Banner -->
   <img src="./Gemini_Generated_Image_hg9b45hg9b45hg9b.jpeg" width="100%" alt="Steven Morison - Steversecode Banner" />
 
   <br/>
 
   <!-- Typing Animation -->
- <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=25D366&center=true&vCenter=true&width=750&lines=Hi+there!+%F0%9F%91%8B+I'm+Steven+Morison+(thevibecoder);Informatics+Graduate+%40+Universitas+Teknologi+Yogyakarta;Architecting+High-Conversion+E-Commerce+Platforms;Building+Secure%2C+Fast+%26+Scalable+Web+Systems;Crafting+Vibes+Into+Production-Grade+Code+%E2%9C%A8" alt="Typing SVG" />
   </a>
@@ -27,8 +25,6 @@
 
 ### 👨‍💻 About Me
 
-### 👨‍💻 About Me
-
 ```yaml
 Name:            "Steven Morison"
 Alias:           "thevibecoder"
@@ -38,7 +34,7 @@ Almamater:      "Universitas Teknologi Yogyakarta (UTY)"
 Focus:           >-
                  Full-Stack Web Development, E-Commerce Systems,
                  API & Logistics Integrations, Application Security
-Motto: "Vibe high, code clean, build things that solve real business problems."
+Motto:           "Vibe high, code clean, build things that solve real business problems."
 ```
 
 - 🎓 **Lulusan Informatika** dari **Universitas Teknologi Yogyakarta (UTY)** dengan fokus pada rekayasa perangkat lunak web dan sistem informasi ritel modern.
@@ -55,8 +51,13 @@ Berikut adalah beberapa platform e-commerce & web aplikasi berskala produksi yan
 <table>
   <tr>
     <td width="50%" valign="top">
+      <p align="left">
+        <a href="https://manee.id" target="_blank">
+          <img src="./logo%20brand/Manee.svg" height="42" alt="Maneé Logo" />
+        </a>
+      </p>
       <h3 align="left">✨ <a href="https://manee.id" target="_blank">Maneé</a></h3>
-      <p><b>URL:</b> <a href="https://manee.id">manee.id</a></p>
+      <p><b>URL:</b> <a href="https://manee.id" target="_blank">manee.id</a></p>
       <p><b>Deskripsi:</b> Platform e-commerce busana mewah (<i>high-fashion & luxury retail</i>) dengan fitur interactive WhatsApp chat room berkonteks produk otomatis, dynamic variant switching, diskon grosir berjenjang (B2B), pre-order limiter, serta integrasi Midtrans dan Biteship.</p>
       <p>
         <img src="https://img.shields.io/badge/Laravel-12.x-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
@@ -67,8 +68,13 @@ Berikut adalah beberapa platform e-commerce & web aplikasi berskala produksi yan
       </p>
     </td>
     <td width="50%" valign="top">
+      <p align="left">
+        <a href="https://clabycla.id" target="_blank">
+          <img src="./logo%20brand/cla.png" height="42" alt="Clabycla Logo" />
+        </a>
+      </p>
       <h3 align="left">👗 <a href="https://clabycla.id" target="_blank">Clabycla</a></h3>
-      <p><b>URL:</b> <a href="https://clabycla.id">clabycla.id</a></p>
+      <p><b>URL:</b> <a href="https://clabycla.id" target="_blank">clabycla.id</a></p>
       <p><b>Deskripsi:</b> Storefront busana wanita kekinian dengan antarmuka belanja cepat, widget customer care cerdas, pelacakan pesanan publik terintegrasi resi kurir, serta sistem pengingat otomatis pembayaran via WhatsApp.</p>
       <p>
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
@@ -80,8 +86,13 @@ Berikut adalah beberapa platform e-commerce & web aplikasi berskala produksi yan
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <p align="left">
+        <a href="https://biemi.id" target="_blank">
+          <img src="./logo%20brand/biemi.png" height="46" alt="Biemi Logo" />
+        </a>
+      </p>
       <h3 align="left">🌸 <a href="https://biemi.id" target="_blank">Biemi</a></h3>
-      <p><b>URL:</b> <a href="https://biemi.id">biemi.id</a></p>
+      <p><b>URL:</b> <a href="https://biemi.id" target="_blank">biemi.id</a></p>
       <p><b>Deskripsi:</b> Platform e-commerce ritel & grosir pakaian dengan dukungan flash sale berkala, alokasi stok multi-varian, integrasi multi-brand RBAC, dan analitik corong pengunjung (visitor funnel).</p>
       <p>
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
@@ -91,8 +102,13 @@ Berikut adalah beberapa platform e-commerce & web aplikasi berskala produksi yan
       </p>
     </td>
     <td width="50%" valign="top">
+      <p align="left">
+        <a href="https://mecsofficial.com" target="_blank">
+          <img src="./logo%20brand/mecs.webp" height="42" alt="MECS Official Logo" />
+        </a>
+      </p>
       <h3 align="left">🏢 <a href="https://mecsofficial.com" target="_blank">MECS Official</a></h3>
-      <p><b>URL:</b> <a href="https://mecsofficial.com">mecsofficial.com</a></p>
+      <p><b>URL:</b> <a href="https://mecsofficial.com" target="_blank">mecsofficial.com</a></p>
       <p><b>Deskripsi:</b> Website resmi brand & katalog produk dengan fokus pada kecepatan performa, visual modern bernilai estetika tinggi, dan kemudahan pemesanan langsung bagi pelanggan setia.</p>
       <p>
         <img src="https://img.shields.io/badge/Full_Stack-E--Commerce-1E1B18?style=flat-square" />
